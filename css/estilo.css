@@ -1,0 +1,75 @@
+.contenido{
+	background-color: #00262F;
+	text-align: justify;
+}
+.verde{
+	background-color: #00262F;
+	height: 15em;
+}
+#logo {
+	height: 14em;
+}
+.cuerpo{
+	background-color: #F2F2F2;
+}
+.rosa{
+	background-color: white;
+	height: 2.5em;
+}
+.naranja{
+	background-color: orange;
+	height: 10em;
+	
+	
+}
+.azul {
+	background-color: blue;
+	height: 5em;
+}
+.verde2 {
+	background-color: #00262F;
+	height: 3em;
+	color: white;
+}
+div {
+	border: 1px solid white;
+}
+h1{
+	text-align: center;
+}
+#imgmark1 {
+	height: 25em;
+	width: 100em;
+}
+#txtinicio {
+	text-align: center;
+	color: black;
+	font-size: 150%;
+}
+
+.imagenes {
+	height: 20em;
+	width: 60em;
+}
+#imggal {
+	height: 20em;
+	width: 30em;
+}
+
+.blanco {
+	background-color: white;
+}
+.
+#imag{
+	width: 200em;
+	height: 240em;
+}
+.verde2{
+	text-align: center;
+}
+#hec{
+	height: 30em;
+}
+#fra{
+	height: 30em;
+}
